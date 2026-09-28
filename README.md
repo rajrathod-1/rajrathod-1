@@ -131,12 +131,16 @@ raj@portfolio:~$ ls projects/
 raj@portfolio:~$ git log --stat
 ```
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajrathod-1&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7&icon_color=F0B45C&text_color=A9B1D6&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajrathod-1&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7&text_color=A9B1D6&langs_count=8" alt="Top languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajrathod-1&theme=tokyonight" alt="Profile summary" />
 
-<br /><br />
+<br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajrathod-1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7AA2F7&line=BB9AF7&point=F0B45C&area=true" alt="Contribution activity" width="98%" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajrathod-1&theme=tokyonight" alt="Repositories per language" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajrathod-1&theme=tokyonight" alt="Most committed languages" />
+
+<br />
+
+<img height="175" src="https://streak-stats.demolab.com?user=rajrathod-1&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=F0B45C&currStreakLabel=7AA2F7" alt="Contribution streak" />
 
 <br /><br />
 
